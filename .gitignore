@@ -11,3 +11,5 @@ wheels/
 
 segregated_orders/**
 *.mbox
+
+.DS_Store
